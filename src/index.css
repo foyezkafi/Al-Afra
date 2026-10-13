@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-bengali: 'Hind Siliguri', system-ui, -apple-system, sans-serif;
+  --font-arabic: 'Amiri', serif;
+  --color-primary: #075E45;
+  --color-primary-dark: #054835;
+  --color-primary-light: #0d7557;
+  --color-secondary: #0B8063;
+  --color-accent: #D4AF37;
+  --color-accent-light: #E8C862;
+  --color-accent-dark: #B59325;
+  --color-bg-ivory: #FAF9F4;
+  --color-text-main: #202820;
+}
+
+body {
+  font-family: 'Hind Siliguri', system-ui, -apple-system, sans-serif;
+  background-color: #FAF9F4;
+  color: #202820;
+}
